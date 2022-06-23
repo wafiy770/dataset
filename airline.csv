@@ -1,0 +1,10 @@
+year,month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct,weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted,arr_delay,carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
+2022,3,9E,Endeavor Air Inc.,ABE,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",135,12,4.21,1.93,3.25,0.83,1.78,0,1,513,124,180,107,25,77
+2022,3,9E,Endeavor Air Inc.,ABY,"Albany, GA: Southwest Georgia Regional",79,10,4.03,0.76,2.05,0,3.16,0,0,896,294,231,53,0,318
+2022,3,9E,Endeavor Air Inc.,AEX,"Alexandria, LA: Alexandria International",79,15,5.36,0.37,6.2,0,3.07,0,0,830,416,59,202,0,153
+2022,3,9E,Endeavor Air Inc.,AGS,"Augusta, GA: Augusta Regional at Bush Field",147,12,3.92,1,2.63,0,4.45,0,0,533,140,75,139,0,179
+2022,3,9E,Endeavor Air Inc.,ALB,"Albany, NY: Albany International",92,21,2.72,0.98,5.01,0,12.29,4,0,1506,177,72,239,0,1018
+2022,3,9E,Endeavor Air Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",2985,468,117.44,24.84,125.14,0,200.59,0,5,42692,12970,3866,4751,0,21105
+2022,3,9E,Endeavor Air Inc.,ATW,"Appleton, WI: Appleton International",140,26,11.53,0.88,10.13,0,3.46,0,0,1137,650,37,232,0,218
+2022,3,9E,Endeavor Air Inc.,AUS,"Austin, TX: Austin - Bergstrom International",58,2,0.74,0,0.26,0,1,0,0,110,70,0,25,0,15
+2022,3,9E,Endeavor Air Inc.,AVL,"Asheville, NC: Asheville Regional",47,6,0.13,0,2.86,0,3.02,4,0,423,18,0,189,0,216
